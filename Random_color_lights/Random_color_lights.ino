@@ -1,12 +1,12 @@
 // Code Assumes there's 3 lights but can be modified to match any number of lights
 
 // Number of lights in the system
-#define NUM_LIGHTS 3
+#define NUM_LIGHTS 1
 
 // Pin numbers that is connected to the Red pin, Green pin, and Blue pin
 // ex) Pin1[3] = {3,4,5}; 3 is red pin, 4 is green pin, 5 is blue pin
 // Assume pin numbers for sake of example but can be changed to suit actual setup
-#define PINa {2,3,4}   // Change Numbers here
+#define PINa {10,9,8}   // Change Numbers here
 #define PINb {5,6,7}   // Change Numbers here
 #define PINc {8,9,10}    // Change Numbers here
 
@@ -15,27 +15,29 @@
 // Set as {red value, green value, blue value}
 // Ex) {255,0,0} for red, {0, 255, 0} for green, and {0, 0, 255} for blue
 // Assumes colors for the sake of example but can be changed to suit actual setup
-#define COLORa {255, 0, 0}   // Change Numbers here
-#define COLORb {0, 255, 0}   // Change Numbers here
-#define COLORc {0, 0, 255}   // Change Numbers here
+#define COLORr {225,0,0}   // Change Numbers here
+#define COLORg {0, 255, 0}   // Change Numbers here
+#define COLORb {0, 0, 255}   // Change Numbers here
 
 
 // Orgainized pins
-int Pins[NUM_LIGHTS][3] = {PINa, PINb, PINc};
+int Pins[NUM_LIGHTS][3] = {PINa};
 
-// Organized Colors
-int Colors[NUM_LIGHTS][3] = {COLORa, COLORb, COLORc};
-
-
+// Organized Color
+int Colors[3][3] = {COLORr,COLORg,COLORb};
 
 
+
+void PinLights(int pin[], int light[]){
+  analogWrite(pin[0], light[0]);
+  analogWrite(pin[1], light[1]);
+  analogWrite(pin[2], light[2]);
+}
 // Sets the color for the light
 // Input: arrary of the pin to be set, array of the color to be set to
-void LEDLight(int P[NUM_LIGHTS][3], int C[NUM_LIGHTS][3]){
+void LEDLight(int P[NUM_LIGHTS][3], int C[3][3]){
   for (int i = 0; i < NUM_LIGHTS; i++){
-    analogWrite(P[i][0], C[i][0]);
-    analogWrite(P[i][1], C[i][1]);
-    analogWrite(P[i][2], C[i][2]);
+    PinLights(P[i], C[i]);
   }
 }
 
@@ -70,10 +72,28 @@ void SetRandomLight(int P[NUM_LIGHTS][3] , int C[NUM_LIGHTS][3]){
       int temp = RandomOrder[i];
       RandomOrder[i] = RandomOrder[max_index];
       RandomOrder[max_index] = temp;
-      swap(P, i, max_index);
+      swap(C, i, max_index);
     }
   }
   LEDLight(P, C);
+}
+
+void PickRandomLight(int P[NUM_LIGHTS][3], int C[NUM_LIGHTS][3]){
+  for (int i = 0; i < 3; i++){
+    C[0][i] = random(255);
+  }
+  LEDLight(P,C);
+}
+
+void PickRGB(int P[NUM_LIGHTS][3], int C[3][3]){
+  int choose = random(1000);
+  if (choose <= 333){
+    PinLights(P[0],C[0]);
+  } else if (choose <= 666){
+    PinLights(P[0],C[1]);
+  } else {
+    PinLights(P[0], C[2]);
+  }
 }
 
 void setup() {
@@ -89,6 +109,8 @@ void setup() {
 }
 
 void loop() {
-  SetRandomLight(Pins, Colors);
+  //PickRandomLight(Pins, Colors);
+  //SetRandomLight(Pins, Colors);
+  PickRGB(Pins,Colors);
   delay(1000);
 }
