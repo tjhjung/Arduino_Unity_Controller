@@ -60,6 +60,8 @@ void setup() {
   digitalWrite(SW_pin, HIGH);
   Serial.begin(115200);
   Serial.print("Curve Clockwise Down!");
+  pinMode(10, OUTPUT);
+  digitalWrite(10, HIGH);
 }
 
 void loop() {
