@@ -1,4 +1,6 @@
 #include "SerialCommand.h"
+#include <SoftwareSerial.h>
+
 
 #define SW_pin 2
 #define X_pin 1
