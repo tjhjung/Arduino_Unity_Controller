@@ -1,0 +1,338 @@
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\Boo.Lang.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\mscorlib.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\System.Core.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\System.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\System.Xml.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\Unity.Locator.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEditor.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityScript.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\Unity.IvyParser.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEditor.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\obj\Debug\Assembly-CSharp.dll
+C:\Users\elisa\Documents\2018-2019\SE101Fall2018\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\obj\Debug\Assembly-CSharp.pdb
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\Assembly-CSharp.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\Assembly-CSharp.pdb
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\Boo.Lang.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\Facebook.Unity.Settings.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\mscorlib.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\System.Core.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\System.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\System.Runtime.Serialization.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\System.Xml.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\System.Xml.Linq.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\Unity.Locator.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\Unity.TextMeshPro.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEditor.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.AIModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.Analytics.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.ARModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.AudioModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.ClothModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.GridModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.HoloLens.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.InputModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.Networking.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.Timeline.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.TLSModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UI.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UIModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UNETModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.VideoModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.VRModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.WindModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.XRModule.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityScript.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityScript.Lang.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\Unity.Cecil.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\Unity.DataContract.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\ExCSS.Unity.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\Boo.Lang.Parser.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\Boo.Lang.Compiler.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\Unity.IvyParser.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\Boo.Lang.Useful.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\Unity.CecilTools.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEditor.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.AIModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.ARModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.AudioModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.ClothModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.CoreModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.GridModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.InputModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.TLSModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UIModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UNETModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.VRModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.VideoModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.WindModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.XRModule.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.UI.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.Timeline.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.Networking.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.HoloLens.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\obj\Debug\Assembly-CSharp.dll
+C:\Users\Tiny\Desktop\SE Project\se101-f18-group-tjhjung-y9luan\SE101Progress\ClickyGame\obj\Debug\Assembly-CSharp.pdb
