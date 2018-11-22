@@ -36,7 +36,7 @@ void setup() {
   pinMode(RED_BUTTON, INPUT);
   pinMode(GREEN_BUTTON, INPUT);
   pinMode(YELLOW_BUTTON, INPUT);
-  //digitalWrite(LED_PIN, HIGH);
+  digitalWrite(LED_PIN, HIGH);
   
   Serial.begin(9600);
 
@@ -49,13 +49,13 @@ void loop() {
       Serial.println(t);
       Serial.flush();
       R_B = 0;
-      digitalWrite(LED_PIN, LOW);
+      //digitalWrite(LED_PIN, LOW);
     } else if (R_C) {
       Serial.println("BP1");
       Serial.flush();
       delay(10);
       R_C = 0;
-      digitalWrite(LED_PIN, LOW);
+      //digitalWrite(LED_PIN, LOW);
     }
   }
   if (digitalRead(GREEN_BUTTON)){
@@ -64,14 +64,14 @@ void loop() {
       Serial.println(t);
       Serial.flush();
       G_B = 0;
-      digitalWrite(LED_PIN, LOW);
+      //digitalWrite(LED_PIN, LOW);
     }
     if (G_C){
       Serial.println("BP2");
       Serial.flush();
       delay(10);
       G_C = 0;
-      digitalWrite(LED_PIN, LOW);
+      //digitalWrite(LED_PIN, LOW);
     }
   }
   if (digitalRead(YELLOW_BUTTON)){
@@ -80,14 +80,14 @@ void loop() {
       Serial.println(t);
       Serial.flush();
       Y_B = 0;
-      digitalWrite(LED_PIN, LOW);
+      //digitalWrite(LED_PIN, LOW);
     }
     if (Y_C){
       Serial.println("BP3");
       Serial.flush();
       delay(10);
       Y_C = 0;
-      digitalWrite(LED_PIN, LOW);
+      //digitalWrite(LED_PIN, LOW);
     }
   }
   if (Serial.available() > 0){
@@ -120,19 +120,19 @@ void loop() {
       }
       if (checkByte[0] == RED_B){
         if (digitalRead(RED_BUTTON) == LOW){
-          digitalWrite(LED_PIN, HIGH);
+          //digitalWrite(LED_PIN, HIGH);
           R_C = 1;
         }
       }
       if (checkByte[0] == GREEN_B){
         if (digitalRead(GREEN_BUTTON) == LOW){
-          digitalWrite(LED_PIN, HIGH);
+          //digitalWrite(LED_PIN, HIGH);
           G_C = 1;
         }
       }
       if (checkByte[0] == YELLOW_B){
         if (digitalRead(YELLOW_BUTTON) == LOW){
-          digitalWrite(LED_PIN, HIGH);
+          //digitalWrite(LED_PIN, HIGH);
           Y_C = 1;
         }
       }
