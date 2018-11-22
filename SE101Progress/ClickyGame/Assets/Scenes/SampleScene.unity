@@ -388,8 +388,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   input_obj: {fileID: 528528998}
-  button_wait: 0
-  button_check_started: 0
 --- !u!1 &807861188
 GameObject:
   m_ObjectHideFlags: 0

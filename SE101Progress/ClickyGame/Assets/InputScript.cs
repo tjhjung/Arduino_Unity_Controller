@@ -8,8 +8,8 @@ public class InputScript : MonoBehaviour {
     const int RED_B = 1;
     const int GREEN_B = 2;
     const int YELLOW_B = 3;
-    public bool button_wait = false;
-    public bool button_check_started = false;
+    protected bool button_wait = false;
+    protected bool button_check_started = false;
     SerialPort sp = new SerialPort("COM3", 9600);
 
     // Use this for initialization
