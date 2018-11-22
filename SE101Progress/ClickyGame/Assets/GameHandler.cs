@@ -1,8 +1,10 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using System.IO.Ports;
 
 public class GameHandler : MonoBehaviour {
+    public static bool end_button = false;
     protected int songPosition;
     public MathSongScript mathSongScript;
     protected int clipFrequency;
@@ -59,8 +61,21 @@ public class GameHandler : MonoBehaviour {
         }
         else if (Input.GetKeyDown(KeyCode.Z))
         {
-            Destroy(buttonsList.Dequeue());
-            Destroy(approachCircleList.Dequeue());
+            button_destroy();
+        }
+
+
+        if (end_button == true)
+        {
+            button_destroy();
+            end_button = false;
         }
 	}
+
+
+    void button_destroy()
+    {
+        Destroy(buttonsList.Dequeue());
+        Destroy(approachCircleList.Dequeue());
+    }
 }
